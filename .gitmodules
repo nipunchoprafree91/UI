@@ -1,0 +1,18 @@
+[submodule "Angularrepo"]
+	path = Angularrepo
+	url = https://github.com/nipunchoprafree91/Angularrepo.git
+[submodule "Typescriptrepo"]
+	path = Typescriptrepo
+	url = https://github.com/nipunchoprafree91/Typescriptrepo.git
+[submodule "Nodejsrepo"]
+	path = Nodejsrepo
+	url = https://github.com/nipunchoprafree91/Nodejsrepo.git
+[submodule "HtmlCssrepo"]
+	path = HtmlCssrepo
+	url = https://github.com/nipunchoprafree91/HtmlCssrepo.git
+[submodule "Javascriptrepo"]
+	path = Javascriptrepo
+	url = https://github.com/nipunchoprafree91/Javascriptrepo.git
+[submodule "Nextjsrepo"]
+	path = Nextjsrepo
+	url = https://github.com/nipunchoprafree91/Nextjsrepo.git
