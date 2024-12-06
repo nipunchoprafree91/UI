@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 12,
+		"terminal.integrated.fontSize": 12,
+		"workbench.colorTheme": "Default Light Modern",
+	}
+}
